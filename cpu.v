@@ -1,3 +1,6 @@
+
+first change
+
 module cpu (
 	input wire sw0,
 	
@@ -9,7 +12,6 @@ module cpu (
 	output wire led2,
 	output wire led3,
 	output wire led4,
-	output wire led5,
 	output wire led6,
 	output wire led7
 	);
