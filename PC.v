@@ -45,3 +45,4 @@ end
 	assign out = r_reg;
 	
 endmodule
+test2
